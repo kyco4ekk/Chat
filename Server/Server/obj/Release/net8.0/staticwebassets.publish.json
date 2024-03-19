@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XTANfl3G1nljZNoLZIReg0f7DsLQME9Dt5vQPhRHQpI=",
+  "Source": "Server",
+  "BasePath": "_content/Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Server\\wwwroot",
+      "Source": "Server",
+      "ContentRoot": "C:\\Users\\kyco4ekk\\Desktop\\chat\\Server\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

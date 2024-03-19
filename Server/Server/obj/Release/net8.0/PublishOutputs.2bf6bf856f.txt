@@ -1,0 +1,16 @@
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Server.exe
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\appsettings.Development.json
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\appsettings.json
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Server.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Server.deps.json
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Server.runtimeconfig.json
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Server.pdb
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.Extensions.Features.dll
+C:\Users\kyco4ekk\Desktop\chat\Server\Server\obj\Docker\publish\Microsoft.Extensions.Options.dll
